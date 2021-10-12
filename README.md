@@ -37,8 +37,8 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashnarkhede&show_icons=true&theme=dark&title_color=fd6e97&bg_color=000000&locale=en&layout=compact" alt="yashnarkhede" /></p>
+<h3 align="left">📈 Stats</h3>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=yashnarkhede&show_icons=true&theme=dark&title_color=fd6e97&bg_color=000000&locale=en&layout=compact" alt="yashnarkhede" /></p>
 
 <!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashnarkhede&theme=highcontrast&layout=compact" alt="yashnarkhede" /></p>
  -->
