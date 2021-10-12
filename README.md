@@ -38,8 +38,8 @@
 
 
 <h3 align="left">📈 Stats</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashnarkhede&show_icons=true&theme=dark&title_color=fd6e97&bg_color=000000&locale=en&layout=compact" alt="yashnarkhede" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashnarkhede&show_icons=true&theme=dark&title_color=fd6e97&bg_color=000000&locale=en&layout=compact" alt="yashnarkhede" /></p>
 
 <!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashnarkhede&theme=highcontrast&layout=compact" alt="yashnarkhede" /></p>
  -->
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnarkhede&show_icons=true&theme=dark&title_color=fd6e97&locale=en&layout=compact" alt="yashnarkhede" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnarkhede&show_icons=true&theme=dark&title_color=fd6e97&locale=en&layout=compact" alt="yashnarkhede" /></p> -->
