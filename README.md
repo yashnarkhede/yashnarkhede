@@ -42,4 +42,4 @@
 
 <!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashnarkhede&theme=highcontrast&layout=compact" alt="yashnarkhede" /></p>
  -->
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnarkhede&show_icons=true&theme=dark&title_color=fd6e97&locale=en&layout=compact" alt="yashnarkhede" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnarkhede&show_icons=true&theme=dark&title_color=fd6e97&locale=en&layout=compact" alt="yashnarkhede" /></p>
