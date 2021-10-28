@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [yash.dorik.io](https://yash.dorik.io/)
 
-- 💬 Ask me about **C++, Android**
+- 💬 Ask me about **C++, Android, Machine Learning**
 
 - 📫 How to reach me **yash.r.narkhede@gmail.com**
 
