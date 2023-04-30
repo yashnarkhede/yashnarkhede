@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Yash Narkhede 👋</h1>
-<h3 align="center">A CSE Sophomore at VESIT</h3>
+<h3 align="center">A CSE final year student at VESIT</h3>
 
-- 🔭 I’m currently working on **Android**
+- 🔭 I’m currently working on **NLP**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning and MLops**
 
 - 👨‍💻 All of my projects are available at [yash.dorik.io](https://yash.dorik.io/)
 
-- 💬 Ask me about **C++, Android, Machine Learning**
+- 💬 Ask me about **C++, Android, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **yash.r.narkhede@gmail.com**
 
