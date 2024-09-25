@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Distributed Systems and Data Science**
 
-- 🌱 I’m currently learning **Distributed Systems**
+- 🌱 I’m currently learning **Distributed Systems and System Design**
 
 - 👨‍💻 All of my projects are available at [yash.dorik.io](https://yash.dorik.io/)
 
