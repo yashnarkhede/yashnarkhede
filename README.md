@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yash Narkhede 👋</h1>
-<h3 align="center">A CSE Masters student at Stony Brook University</h3>
+<h3 align="center">A MSCS student at Stony Brook University</h3>
 
 - 🔭 I’m currently working on **Distributed Systems and Data Science**
 
