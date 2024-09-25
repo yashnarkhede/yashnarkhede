@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Yash Narkhede 👋</h1>
-<h3 align="center">A CSE final year student at VESIT</h3>
+<h3 align="center">A CSE Masters student at Stony Brook University</h3>
 
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **Distributed Systems and Data Science**
 
-- 🌱 I’m currently learning **Deep Learning and MLops**
+- 🌱 I’m currently learning **Distributed Systems**
 
 - 👨‍💻 All of my projects are available at [yash.dorik.io](https://yash.dorik.io/)
 
-- 💬 Ask me about **C++, Android, Machine Learning, Deep Learning**
+- 💬 Ask me about **C++, Android, Machine Learning, Deep Learning, Distributed Systems**
 
-- 📫 How to reach me **yash.r.narkhede@gmail.com**
+- 📫 How to reach me **yashrajesh.narkhede@stonybrook.edu**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
